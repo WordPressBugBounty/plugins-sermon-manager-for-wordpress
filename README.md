@@ -1,0 +1,1 @@
+# plugins-sermon-manager-for-wordpress
